@@ -8,11 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img src="https://github.com/jie-cat/react-food-tailwind/blob/main/src/assets/1.png" width="800">
 
-RWD
-<p float="left">
-  <img src="https://github.com/jie-cat/react-food-tailwind/blob/main/src/assets/2.png" width="500" />
-  <img src="https://github.com/jie-cat/react-food-tailwind/blob/main/src/assets/3.png" width="500" />
-</p>
+<img src="https://github.com/jie-cat/react-food-tailwind/blob/main/src/assets/2.png" width="800">
 
 ## Requirement
 
